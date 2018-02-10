@@ -25,6 +25,3 @@ https://github.com/vanquyet94/tutorial-magento2/blob/master/fix-bug/Customer%20G
 
 
 ![alt text](https://raw.githubusercontent.com/vanquyet94/disabled-customers-magento2/master/image/3.png)
-
-
-![alt text](https://raw.githubusercontent.com/vanquyet94/disabled-customers-magento2/master/image/4.png)
